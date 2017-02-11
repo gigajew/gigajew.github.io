@@ -1,0 +1,5 @@
+User-agent: googlebot-mscrawl-moma
+Disallow:
+
+User-agent: *
+Disallow: /
